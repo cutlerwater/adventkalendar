@@ -13,6 +13,17 @@
     height: 2rem;
 }
 
+.btn-leave {
+    background-color: green;
+    color: white;
+    border: 2px solid red;
+    border-radius: 15px;
+    margin: 15px auto;
+    display: block;
+    width: 10rem;
+    height: 2rem;
+}
+
 .container {
     width: 800px;
     height: 900px;
